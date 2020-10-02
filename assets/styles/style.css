@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    width: 100%;
+    z-index: 1
+}
+
+.headerStyle{
+    margin-top: 140px;
+    margin-bottom: 60px;
+}
